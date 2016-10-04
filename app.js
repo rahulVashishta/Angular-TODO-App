@@ -5,9 +5,9 @@
 	function TodoCtrl(){
 		this.editMode = false;
 		this.todos = [
-		"Learn Angular1",
+		"Learn AngularJS",
 		"Try out exercise",
-		"do something"
+		"do some more stuff"
 		];
 
 		this.addNewTodo = function (){
